@@ -58,10 +58,10 @@
 
 ## 🧩 주요 기능
 
-### ✅ 구독 조합 기능
-
 ![조합 상품 기능](https://github.com/user-attachments/assets/f52b50f5-22dd-4fcc-b8a8-1651927dcc13)
 
+
+### ✅ 구독 조합 기능
 - 사용자가 선택한 구독 서비스 3개로 조합 상품 생성
 - 조합 상품 결제 시 자동 할인 적용
 
@@ -69,11 +69,12 @@
 
 ### ✅ 소비 데이터 기반 추천
 
-<img src="https://github.com/user-attachments/assets/082ad324-3358-4145-ac2a-883bcda7b72f" alt="추천 기능" width="600"/>
+<img src="https://github.com/user-attachments/assets/082ad324-3358-4145-ac2a-883bcda7b72f" alt="추천 기능" width="500"/>
 
+
+### ✅ 소비 데이터 기반 추천
 - 카드 소비내역 분석 후 구독 서비스, 카드 추천  
 - 카테고리별 지출 금액, 구매 빈도를 기반으로 개인화된 제안
-
 
 ---
 
@@ -81,6 +82,8 @@
 
 ![대시보드](https://github.com/user-attachments/assets/55b08f84-4614-4fcd-84a1-c91d02b7d7b9)
 
+
+### ✅ 사용자 맞춤형 대시보드
 - 월별/카테고리별 소비 내역 시각화 (차트)
 - 같은 연령대 소비자와의 비교 차트 제공
 
@@ -90,6 +93,7 @@
 
 - 현재 구독 중인 서비스 목록 및 해지 기능
 - 개별 구독/조합 구독의 상태 관리
+
 
 ---
 
