@@ -67,7 +67,6 @@
 
 ---
 
-### ✅ 소비 데이터 기반 추천
 
 <img src="https://github.com/user-attachments/assets/082ad324-3358-4145-ac2a-883bcda7b72f" alt="추천 기능" width="500"/>
 
@@ -78,7 +77,6 @@
 
 ---
 
-### ✅ 사용자 맞춤형 대시보드
 
 ![대시보드](https://github.com/user-attachments/assets/55b08f84-4614-4fcd-84a1-c91d02b7d7b9)
 
