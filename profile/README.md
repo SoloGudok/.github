@@ -69,10 +69,11 @@
 
 ### ✅ 소비 데이터 기반 추천
 
-![추천 기능](https://github.com/user-attachments/assets/082ad324-3358-4145-ac2a-883bcda7b72f)
+<img src="https://github.com/user-attachments/assets/082ad324-3358-4145-ac2a-883bcda7b72f" alt="추천 기능" width="600"/>
 
-- 카드 소비내역 분석 후 구독 서비스, 카드 추천
+- 카드 소비내역 분석 후 구독 서비스, 카드 추천  
 - 카테고리별 지출 금액, 구매 빈도를 기반으로 개인화된 제안
+
 
 ---
 
